@@ -90,8 +90,8 @@ Worked with **Autosegra Solution** on a project focused on **medical waste segre
 
 ## 📫 Contact
 
-📧 Email: [thiruvarasu...@gmail.com](mailto:thiruvarasu...@gmail.com)
-💼 LinkedIn: https://linkedin.com/in/thiruvarasu
+📧 Email: [thiruvarasuperumal829@gmail.com](mailto:thiruvarasuperumal829@gmail.com)
+💼 LinkedIn: https://www.linkedin.com/in/thiruvarasu-p-3120b9291/
 📱 Phone: 6374244187
 
 ---
