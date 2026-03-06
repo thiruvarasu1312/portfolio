@@ -1,4 +1,4 @@
-# Thiruvarasu – AI & Data Science Portfolio
+# Thiruvarasu P – AI & Data Science Portfolio
 
 Welcome to my portfolio repository!
 I am a **third-year B.Tech Artificial Intelligence & Data Science student** passionate about building AI-powered solutions and solving real-world problems using data, machine learning, and intelligent systems.
