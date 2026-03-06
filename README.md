@@ -17,7 +17,7 @@ I am a **third-year B.Tech Artificial Intelligence & Data Science student** pass
 
 ## 🧠 Technical Skills
 
-![Skills](skills.png)
+![Skills] 
 
 * Python
 * Machine Learning
